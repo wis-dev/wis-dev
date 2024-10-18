@@ -1,5 +1,4 @@
 👋 Hi, I’m Leandro Nicolás Matilla, i’m from Argentina and I’m an Full Stack Software Engineer.
-- 👨‍💻 Currently working on Atomchat as a Senior Tech leader.
 - 👀 I’m interested in high scale projects.
 - 🌱 I’m currently learning AI projects.
 - 💞️ I’m looking to collaborate on Angular open source projects.
